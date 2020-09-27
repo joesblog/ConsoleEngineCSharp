@@ -1,0 +1,10 @@
+C:\Users\joe\source\repos\Conny1\CGE\bin\Debug\CGE.dll
+C:\Users\joe\source\repos\Conny1\CGE\bin\Debug\CGE.pdb
+C:\Users\joe\source\repos\Conny1\CGE\obj\Debug\CGE.csproj.CoreCompileInputs.cache
+C:\Users\joe\source\repos\Conny1\CGE\obj\Debug\CGE.dll
+C:\Users\joe\source\repos\Conny1\CGE\obj\Debug\CGE.pdb
+D:\Work\ConsoleEng\ConsoleEngine\CGE\bin\Debug\CGE.dll
+D:\Work\ConsoleEng\ConsoleEngine\CGE\bin\Debug\CGE.pdb
+D:\Work\ConsoleEng\ConsoleEngine\CGE\obj\Debug\CGE.csproj.CoreCompileInputs.cache
+D:\Work\ConsoleEng\ConsoleEngine\CGE\obj\Debug\CGE.dll
+D:\Work\ConsoleEng\ConsoleEngine\CGE\obj\Debug\CGE.pdb

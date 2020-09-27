@@ -1,0 +1,10 @@
+D:\Work\ConsoleEng\ConsoleEngine\ExamplePaint\bin\Debug\ExamplePaint.exe.config
+D:\Work\ConsoleEng\ConsoleEngine\ExamplePaint\bin\Debug\ExamplePaint.exe
+D:\Work\ConsoleEng\ConsoleEngine\ExamplePaint\bin\Debug\ExamplePaint.pdb
+D:\Work\ConsoleEng\ConsoleEngine\ExamplePaint\obj\Debug\ExamplePaint.csprojAssemblyReference.cache
+D:\Work\ConsoleEng\ConsoleEngine\ExamplePaint\obj\Debug\ExamplePaint.csproj.CoreCompileInputs.cache
+D:\Work\ConsoleEng\ConsoleEngine\ExamplePaint\obj\Debug\ExamplePaint.exe
+D:\Work\ConsoleEng\ConsoleEngine\ExamplePaint\obj\Debug\ExamplePaint.pdb
+D:\Work\ConsoleEng\ConsoleEngine\ExamplePaint\bin\Debug\CGE.dll
+D:\Work\ConsoleEng\ConsoleEngine\ExamplePaint\bin\Debug\CGE.pdb
+D:\Work\ConsoleEng\ConsoleEngine\ExamplePaint\obj\Debug\ExamplePaint.csproj.CopyComplete

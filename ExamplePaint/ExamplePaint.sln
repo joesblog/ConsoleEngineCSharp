@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamplePaint", "ExamplePaint.csproj", "{00A63D9E-9956-4523-AFEC-68DBF3CA5A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGE", "..\CGE\CGE.csproj", "{3D1A18E9-6376-45E2-86D9-51E9796D92FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A63D9E-9956-4523-AFEC-68DBF3CA5A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A63D9E-9956-4523-AFEC-68DBF3CA5A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A63D9E-9956-4523-AFEC-68DBF3CA5A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A63D9E-9956-4523-AFEC-68DBF3CA5A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1A18E9-6376-45E2-86D9-51E9796D92FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1A18E9-6376-45E2-86D9-51E9796D92FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1A18E9-6376-45E2-86D9-51E9796D92FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1A18E9-6376-45E2-86D9-51E9796D92FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AE5475E-CFCA-4918-B193-4CA3066CDA01}
+	EndGlobalSection
+EndGlobal
